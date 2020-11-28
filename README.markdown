@@ -6,6 +6,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/8ba0cb5b17bb9848e128/maintainability)][codeclimate]
 [![Test Coverage](https://api.codeclimate.com/v1/badges/8ba0cb5b17bb9848e128/test_coverage)][coverage]
 [![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d586ee5167204e9d8b096e24eed517cc)](https://app.codacy.com/gh/Daryle1K/jekyll?utm_source=github.com&utm_medium=referral&utm_content=Daryle1K/jekyll&utm_campaign=Badge_Grade_Settings)
 [![Backers on Open Collective](https://opencollective.com/jekyll/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/jekyll/sponsors/badge.svg)](#sponsors)
 
